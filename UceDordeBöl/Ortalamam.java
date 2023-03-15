@@ -1,6 +1,6 @@
 package UceDordeBöl;
 import java.util.Scanner;
-public class Ortalamam {
+public class Ortalamam { 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("sayı giriniz : ");
